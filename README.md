@@ -1,4 +1,4 @@
-# phone_country_picker
+# flex_phone_input
 
 A searchable **phone number input** field with an integrated **country code picker** for Flutter.
 
@@ -12,11 +12,11 @@ A searchable **phone number input** field with an integrated **country code pick
 
 ```yaml
 dependencies:
-  phone_country_picker: ^1.0.0
+  flex_phone_input: ^1.0.0
 ```
 
 ```dart
-import 'package:phone_country_picker/phone_country_picker.dart';
+import 'package:flex_phone_input/flex_phone_input.dart';
 ```
 
 ## Quick start

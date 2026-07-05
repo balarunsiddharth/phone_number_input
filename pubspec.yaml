@@ -1,4 +1,4 @@
-name: phone_country_picker
+name: flex_phone_input
 description: "A searchable phone number input field with a country code picker. Supports multiple field styles, selector surfaces, validation states, and full light/dark theming."
 version: 1.0.0
 

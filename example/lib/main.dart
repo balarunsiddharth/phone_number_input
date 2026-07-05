@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phone_country_picker/phone_country_picker.dart';
+import 'package:flex_phone_input/flex_phone_input.dart';
 
 void main() => runApp(const DemoApp());
 
@@ -21,7 +21,7 @@ class _DemoAppState extends State<DemoApp> {
   Widget build(BuildContext context) {
     const Color seed = Color(0xFF1A56DB);
     return MaterialApp(
-      title: 'phone_country_picker demo',
+      title: 'flex_phone_input demo',
       debugShowCheckedModeBanner: false,
       themeMode: _mode,
       // Theming, way #1: register PhoneInputTheme globally for light + dark.
@@ -68,7 +68,7 @@ class _DemoPageState extends State<DemoPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('phone_country_picker'),
+        title: const Text('flex_phone_input'),
         actions: <Widget>[
           IconButton(
             tooltip: 'Toggle theme',

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:phone_country_picker/phone_country_picker.dart';
+import 'package:flex_phone_input/flex_phone_input.dart';
 
 void main() {
   group('Country', () {

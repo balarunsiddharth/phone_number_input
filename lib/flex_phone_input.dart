@@ -4,7 +4,7 @@
 /// Import this single file to access everything:
 ///
 /// ```dart
-/// import 'package:phone_country_picker/phone_country_picker.dart';
+/// import 'package:flex_phone_input/flex_phone_input.dart';
 /// ```
 library;
 
